@@ -2,9 +2,9 @@
 endgame++ terraria mod repo
 
 SUPPORTER ITEMS:
-borge's armor: ranger armor set, modeled off of yours truly
-THC's armor: summoner armor set, bad to the bone
-Deku's armor: 
+* borge's armor: ranger armor set, modeled off of yours truly
+* THC's armor: summoner armor set, bad to the bone
+* Deku's armor: 
 
 
 changelog:
@@ -31,7 +31,7 @@ roadmap:
   * Horseshoe and Handgrenade - immunity to self damage from explosives
 
 0.1: dungeon update
-  boss: dungeon haunt
+  * boss: dungeon haunt
   * spectre themed weapons and armor overhaul/upgrade
   * fought after plantera
   * no new blocks/biomes
@@ -41,8 +41,8 @@ roadmap:
   * new enemies plus added hardmode world evil slimes
 
 0.3: ice update
-  boss: Laplace, the frozen queen
-  structure: cryogenics lab(spawns in underground ice biome)
+  * boss: Laplace, the frozen queen
+  * structure: cryogenics lab(spawns in underground ice biome)
   * mainly magic/summoner focused with some ranger and melee support
 
   WEAPONS
