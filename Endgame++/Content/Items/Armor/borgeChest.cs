@@ -3,7 +3,7 @@ using Terraria.ID;
 using Terraria.Localization;
 using Terraria.ModLoader;
 
-namespace endgame.Content.Items.Armor
+namespace Endgame++.Content.Items.Armor
 {
 	// The AutoloadEquip attribute automatically attaches an equip texture to this item.
 	// Providing the EquipType.Body value here will result in TML expecting X_Arms.png, X_Body.png and X_FemaleBody.png sprite-sheet files to be placed next to the item's main texture.
@@ -25,15 +25,12 @@ namespace endgame.Content.Items.Armor
 
 		public override void UpdateEquip(Player player) {
 			player.buffImmune[BuffID.OnFire] = true; // Make the player immune to Fire
-			player.statManaMax2 += MaxManaIncrease; // Increase how many mana points the player can have by 20
-			player.maxMinions += MaxMinionIncrease; // Increase how many minions the player can have by one
 		}
 
 		// Please see Content/ExampleRecipes.cs for a detailed explanation of recipe creation.
 		public override void AddRecipes() {
-			CreateRecipe().AddIngredient<ExampleItem>()
-				.AddTile<Tiles.Furniture.ExampleWorkbench>()
-				.Register();
+			Recipe recipe = Recipe.CreateRecipe(ItemID.Dirt, 10);
+   			recipe.Register();
 		}
 	}
 }
