@@ -22,6 +22,7 @@ roadmap:
   
   NEW WEAPONS
   * borge's Gauntlet - deals ranged damage but attacks like a melee weapon
+  * Dead Hand - summons little skeletons
   * 
 
   NEW ACCESSORIES
@@ -49,3 +50,4 @@ roadmap:
   * Laplace's Howl - inflicts frostburn
 
 1.0: The Eventide - descend into the Eventide
+  * post moon lord
