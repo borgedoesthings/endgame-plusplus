@@ -3,8 +3,9 @@ main development staff:
 
 spriting:
   * borge - https://www.youtube.com/@borgedoesthings
+  * THC - 
 
 music:
-  * THC - 
   * Tsheezus -
+  * John Crookedfinger - 
   * borge - https://www.youtube.com/@borgedoesthings
