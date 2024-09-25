@@ -8,7 +8,7 @@ SUPPORTER ITEMS:
 
 
 changelog:
-9/25/2024 - 0.0: created
+9/25/2024 - 0.0: created - updated filepaths
 
 roadmap:
 0.0: starting/early hardmode overhaul and explosives class intro
