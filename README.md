@@ -1,4 +1,4 @@
-# endgame-
+# endgame++
 endgame++ terraria mod repo
 
 SUPPORTER ITEMS:
