@@ -16,6 +16,7 @@ roadmap:
   * craftable starfury(15 gold bars, 10 falling stars, 1 ruby)
   * craftable musket(20 iron bars) and undertaker(20 iron bars)
   * craftable slime summon(25 wood, 50 gel, 2 falling stars)
+  * craftable hermes boots(5 leather, 10 gold bars, 3 falling stars)
 
   NEW CLASS - Demolitionist
   based off explosions(duh lmao)
