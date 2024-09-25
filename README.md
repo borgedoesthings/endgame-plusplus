@@ -4,7 +4,7 @@ endgame++ terraria mod repo
 SUPPORTER ITEMS:
 * borge's armor: ranger armor set, modeled off of yours truly
 * THC's armor: summoner armor set, bad to the bone
-* Deku's armor: 
+* Deku's armor: mage armor set, ref pending
 
 
 changelog:
