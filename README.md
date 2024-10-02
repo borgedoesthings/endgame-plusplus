@@ -14,8 +14,8 @@ roadmap:
 0.0: starting/early hardmode overhaul and explosives class intro
   MAIN GOAL - make starting out a bit easier
   * craftable starfury(15 gold bars, 10 falling stars, 1 ruby)
-  * craftable musket(20 iron bars) and undertaker(20 iron bars)
-  * craftable slime summon(25 wood, 50 gel, 2 falling stars)
+  * craftable musket(20 iron bars, 5 rotten flesh, 15 ebonstone) and undertaker(20 iron bars, 5 vertebrae, 15 crimstone)
+  * craftable slime summon(25 wood, 50 gel, 2 falling stars, 1 diamond)
   * craftable hermes boots(5 leather, 10 gold bars, 3 falling stars)
 
   NEW CLASS - Demolitionist
@@ -23,7 +23,7 @@ roadmap:
   
   NEW WEAPONS
   * borge's Gauntlet - deals ranged damage but attacks like a melee weapon
-  * Dead Hand - summons little skeletons
+  * Dead Man's Hand - summons little skeletons
   * 
 
   NEW ACCESSORIES
@@ -50,5 +50,7 @@ roadmap:
   WEAPONS
   * Laplace's Howl - inflicts frostburn
 
-1.0: The Eventide - descend into the Eventide
+1.0: The Eventide - descend into the Eventide, a brand new structure inside of hell
   * post moon lord
+  * hell expansion
+  * 2 bosses(Eventide AI, tbd)
