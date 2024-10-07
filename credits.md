@@ -3,7 +3,8 @@ main development staff:
 
 spriting:
   * borge - https://www.youtube.com/@borgedoesthings
-  * THC - 
+  * THC -
+  * Nyte Mist - 
 
 music:
   * Tsheezus -
