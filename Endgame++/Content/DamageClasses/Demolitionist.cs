@@ -15,6 +15,8 @@ namespace ExampleMod.Content.DamageClasses
 			// Default is, you guessed it, the default damage class. It doesn't scale off of any class-specific stat bonuses or universal stat bonuses.
 			// There are a number of items and projectiles that use this, such as thrown waters and the Bone Glove's bones.
 			// Generic, on the other hand, scales off of all universal stat bonuses and nothing else; it's the base damage class upon which all others that aren't Default are built.
+
+   			//damageClass == DamageClass.Explosive?
 			if (damageClass == DamageClass.Generic)
 				return StatInheritanceData.Full;
 
