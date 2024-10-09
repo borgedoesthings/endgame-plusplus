@@ -3,9 +3,9 @@
 using Terraria;
 using Terraria.ModLoader;
 
-namespace ExampleMod.Content.DamageClasses
+namespace Endgame++.Content.DamageClasses
 {
-	public class ExampleDamageClass : DamageClass
+	public class Demolitionist : DamageClass
 	{
 		// This is an example damage class designed to demonstrate all the current functionality of the feature and explain how to create one of your own, should you need one.
 		// For information about how to apply stat bonuses to specific damage classes, please instead refer to ExampleMod/Content/Items/Accessories/ExampleStatBonusAccessory.
