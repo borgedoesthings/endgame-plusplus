@@ -1,4 +1,5 @@
-//need to change this to explosive, all of the current code is taken from examplemod from the tmod team
+//okay so i THINK itll work, may need more consulting of the bones
+//also im not really changing the existing documentation go fuck yourselves
 
 using Terraria;
 using Terraria.ModLoader;
