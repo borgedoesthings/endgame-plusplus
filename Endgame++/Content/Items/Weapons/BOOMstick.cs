@@ -27,9 +27,9 @@ namespace Endgame++.Content.Items.Weapons
 			Item.useStyle = ItemUseStyleID.Shoot; // How you use the item (swinging, holding out, shoot, etc.)
 			Item.value = Item.buyPrice(gold: 1); // The value of the weapon in copper coins
 
-			// Custom ammo and shooting homing projectiles
+			// changed the ammo it uses to dynamite form vanilla and it will use a custom projectile that doesnt destroy tiles
 			Item.shoot = ModContent.ProjectileType<Projectiles.DynamiteProjectile>();
-			Item.useAmmo = ModContent.ItemType<ExampleCustomAmmo>(); // Restrict the type of ammo the weapon can use, so that the weapon cannot use other ammos
+			Item.useAmmo = ItemID.Dynamitel; //vanilla dynamite
 		}
 
 		// Please see Content/ExampleRecipes.cs for a detailed explanation of recipe creation.
