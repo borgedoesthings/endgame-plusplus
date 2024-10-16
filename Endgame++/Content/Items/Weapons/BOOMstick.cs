@@ -15,7 +15,7 @@ namespace Endgame++.Content.Items.Weapons
 			Item.height = 30; // The height of item hitbox
 
 			Item.autoReuse = true;  // Whether or not you can hold click to automatically use it again.
-			Item.damage = 12; // Sets the item's damage. Note that projectiles shot by this weapon will use its and the used ammunition's damage added together.
+			Item.damage = 100; // set to 100 for debug, will also add the projectile damage
 			Item.DamageType = ModContent.GetInstance<Demolitionist>(); //should HOPEFULLY work
 			Item.knockBack = 4f; // Sets the item's knockback. Note that projectiles shot by this weapon will use its and the used ammunition's knockback added together.
 			Item.noMelee = true; // So the item's animation doesn't do damage.
