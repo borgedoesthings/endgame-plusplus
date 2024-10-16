@@ -35,8 +35,7 @@ namespace Endgame++.Content.Items.Weapons
 		// Please see Content/ExampleRecipes.cs for a detailed explanation of recipe creation.
 		public override void AddRecipes() {
 			CreateRecipe()
-				.AddIngredient<ExampleItem>()
-				.AddTile<Tiles.Furniture.ExampleWorkbench>()
+				.AddIngredient(ItemID.DirtBlock, 10) //10 dirt crafted in your inventory for debugging
 				.Register();
 		}
 	}
