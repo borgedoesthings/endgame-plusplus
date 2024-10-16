@@ -29,7 +29,7 @@ namespace Endgame++.Content.Items.Weapons
 
 			// changed the ammo it uses to dynamite form vanilla and it will use a custom projectile that doesnt destroy tiles
 			Item.shoot = ModContent.ProjectileType<Projectiles.DynamiteProjectile>();
-			Item.useAmmo = ItemID.Dynamitel; //vanilla dynamite
+			Item.useAmmo = ItemID.Dynamite; //vanilla dynamite
 		}
 
 		// Please see Content/ExampleRecipes.cs for a detailed explanation of recipe creation.
