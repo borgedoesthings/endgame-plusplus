@@ -30,7 +30,7 @@ roadmap:
   * Demolitionist's Emblem - 15% increase to explosive damage
   * Black Powder - increases blast radius
   * Bandolier - chance to not consume ammo on ranged weapons
-  * Horseshoe and Handgrenade - immunity to self damage from explosives
+  * Horseshoe and Handgrenade - immunity to self damage from explosives and fall damage
 
 0.1: dungeon update
   * boss: dungeon haunt
