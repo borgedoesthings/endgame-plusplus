@@ -6,10 +6,6 @@ SUPPORTER ITEMS:
 * THC's armor: summoner armor set, bad to the bone
 * Deku's armor: mage armor set, ref pending
 
-
-changelog:
-9/25/2024 - 0.0: created - updated filepaths
-
 roadmap:
 0.0: starting/early hardmode overhaul and explosives class intro
   MAIN GOAL - make starting out a bit easier
@@ -22,7 +18,7 @@ roadmap:
   based off explosions(duh lmao)
   
   NEW WEAPONS
-  * borge's Gauntlet - deals ranged damage but attacks like a melee weapon
+  * The Salamanders - deals ranged damage but attacks like a melee weapon
   * Dead Man's Hand - summons little skeletons
   * 
 
@@ -54,3 +50,7 @@ roadmap:
   * post moon lord
   * hell expansion
   * 2 bosses(Eventide AI, tbd)
+
+changelog:
+9/25/2024 - 0.0: created - updated filepaths
+5/12/2025 - 0.0: updated some readme info and beginning work again now that finals are done
